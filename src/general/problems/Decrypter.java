@@ -1,6 +1,6 @@
 package general.problems;
 
-public class TvlyDecrypter {
+public class Decrypter {
 
 	public static void main(String[] args) {
 		

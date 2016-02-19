@@ -30,7 +30,7 @@ runCustomerSimulation (3, "GACCBGDDBAEE") should return 0
 runCustomerSimulation (1, "ABCBCA") should return 2*/
 
 
-public class FiberlinkTest {
+public class OnlineTest {
 
 	public static void main(String[] args) {
 		System.out.println(runCustomerSimulation(1, "ABCBCA"));
